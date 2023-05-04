@@ -1,5 +1,3 @@
-﻿// Dharamraj Patel, Rocky Sharaf, Amber Ahmed.
-// 3020 assignment 2 part B
 using System;
 using System.Collections.Generic;
 using System.Linq;
